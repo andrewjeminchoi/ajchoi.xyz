@@ -4,11 +4,6 @@ title = 'Andrew Choi'
 [[module.imports]]
 path = "github.com/willfaught/paige"
 
-[paige]
-color = "#153122" # Bootstrap primary color and theme color for Safari and Windows
-math = false # Enable math typesetting
-style = "" # CSS included at the end of the stylesheet, before style-last.css
-
 [languages.en]
 weight = 10
 
@@ -35,3 +30,6 @@ identifier = "search"
 name = "Search"
 url = "/search/"
 weight = 40
+
+[outputs]
+home = ["html", "json", "rss"]
