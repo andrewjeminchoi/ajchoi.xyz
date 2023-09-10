@@ -15,7 +15,7 @@ The other reason is that I want to talk through my thoughts aloud. Putting pen t
 
 I'd like to stick to three core principles in my writing:
 
-* **Concise** - we are constantly flooded with information, so I want help make it easier for people to consume knowledge.
+* **Concise** - we are constantly flooded with information, so I want help make it simpler and faster for people to consume knowledge.
 * **Accessible** - what's the point of writing if no one is able to understand it?
 * **Accurate** [1] - who wants to read fake news? 🤔
 

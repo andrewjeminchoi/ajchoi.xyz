@@ -27,4 +27,5 @@ Built using [Hugo](https://gohugo.io/) and [Paige](https://github.com/willfaught
 #### Notes
 
 [1] Founded by Turing Award Cryptographer [Silvio Micali](https://en.wikipedia.org/wiki/Silvio_Micali), most well-known for his work on interactive proofs and zero-knowledge protocols. The github is [here](https://github.com/algorand).
+
 [2] I put them in quotes because I think "Web2" and "Web3" are meaningless buzzwords.
