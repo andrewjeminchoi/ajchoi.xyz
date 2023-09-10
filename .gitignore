@@ -21,6 +21,5 @@
 go.work
 
 .hugo_build.lock
-archetypes/
 public/
 resources/
