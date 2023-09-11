@@ -18,7 +18,7 @@ On the other hand, I think AI will have an extremely hard time taking over the w
 
 3. Rise in consumption: We seem to work more today than we did in the 1950s [^4]. Economist Juliet Schor notes that comfort is no longer enough, and luxuries have become necessities for us. If hedonistic adaptation continues to run its course, our insatiable thirst for stuff will outpace what our AI overlords will supply, and we'll have no choice but to step in and bridge the gap in production 🏭.
 
-Despite all the pessimism surrounding AI, I think there's plenty of room for humble laborers like us to continue our life of service. John Maynard Keynes mused that that his grandchildren would only work 15-hour work weeks [^5]. It goes to show that crystal balls don’t exist, even for renowned economists 🤕.
+Despite all the pessimism surrounding AI, I think there's plenty of room for humble laborers like us to continue our life of service. John Maynard Keynes mused that his grandchildren would only work 15-hour work weeks [^5]. It goes to show that crystal balls don’t exist, even for renowned economists 🤕.
 
 #### Notes
 
