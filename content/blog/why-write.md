@@ -17,14 +17,14 @@ I'd like to stick to three core principles in my writing:
 
 * **Concise** - we are constantly flooded with information, so I want help make it simpler and faster for people to consume knowledge.
 * **Accessible** - what's the point of writing if no one is able to understand it?
-* **Accurate** [1] - who wants to read fake news? 🤔
+* **Accurate** [^1] - who wants to read fake news? 🤔
 
 ### Ground rules
 
-The average human reads text at ~200 words per minute [2]. Excluding footnotes and references, every blogpost should be able to be read under 2 minutes, or 400 words in length. This also makes reading (and writing!) low stakes. Worst case, you'll only have to suffer a couple minutes from my writing 😋.
+The average human reads text at ~200 words per minute [^2]. Excluding footnotes and references, every blogpost should be able to be read under 2 minutes, or 400 words in length. This also makes reading (and writing!) low stakes. Worst case, you'll only have to suffer a couple minutes from my writing 😋.
 
 #### Notes
 
-[1] Accurate to the extent of my knowledge.
+[^1]: Accurate to the extent of my knowledge.
 
-[2] <https://psyarxiv.com/xynwg/>
+[^2]: <https://psyarxiv.com/xynwg/>
