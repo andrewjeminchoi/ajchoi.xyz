@@ -22,7 +22,7 @@ My hobbies are making loud noises on my trombone 🎶 and chasing around soccer 
 
 Longer bio [here](https://andrewjeminchoi.github.io).
 
-Built using [Hugo](https://gohugo.io/) and [Paige](https://github.com/willfaught/paige).
+Built using [Hugo](https://gohugo.io/) and [Paige](https://github.com/willfaught/paige). The source code for this site is freely available on [Github](https://github.com/andrewjeminchoi/ajchoi.xyz).
 
 #### Notes
 

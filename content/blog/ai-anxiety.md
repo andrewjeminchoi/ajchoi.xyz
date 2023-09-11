@@ -20,6 +20,8 @@ On the other hand, I think AI will have an extremely hard time taking over the w
 
 Despite all the pessimism surrounding AI, I think there's plenty of room for humble laborers like us to continue our life of service. John Maynard Keynes mused that his grandchildren would only work 15-hour work weeks [^5]. It goes to show that crystal balls don’t exist, even for renowned economists 🤕.
 
+Discussions welcomed on [Github](https://github.com/andrewjeminchoi/ajchoi.xyz/issues/new/choose).
+
 #### Acknowledgements
 
 Thank you to [Josh](https://github.com/JoshFried) and [Nate](https://www.linkedin.com/in/nathanharris3/) for their kind discussions and feedback on an earlier draft.
