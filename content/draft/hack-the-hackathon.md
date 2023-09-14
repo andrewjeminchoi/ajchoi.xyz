@@ -21,12 +21,13 @@ If you are going solo, then skip to point 2 ✌️. Most hackathons allow you to
 
 I always recommend starting with the problem statement and what you're going to pitch. There's two parts to a good hackathon pitch:
 
-* First, it needs to be true 🔍. This is easy - it can be based on real-life experiences or you can do some research and find evidence to support your claims.
-* Second, it needs to be important or interesting 👀. Your project could be solving societal problems, like [Glean](https://devpost.com/software/glean-aqyz6s) 🌿, or it could be leveraging technology in fun and new ways, like [aftr mrkt](https://devpost.com/software/aftr-markt) 👟.
+First, it needs to be true 🔍. This is easy - it can be based on real-life experiences or you can do some research and find evidence to support your claims.
+
+Second, it needs to be important or interesting 👀. Your project could be solving societal problems with altruistic narratives, like [Glean](https://devpost.com/software/glean-aqyz6s) 🌿, or it could be leveraging technology in fun and new ways, like [aftr mrkt](https://devpost.com/software/aftr-markt) 👟.
 
 3. Build for a demo 🧑‍💻
 
-If you have a focused pitch, the rest is easy! Ok maybe not, but the point here is to only build things you can demo and show to others. Most demos are capped at 1~2 minutes, so don't build features that no one will see. Don't get too caught up in processes and technical details, because you can build first and refine later 🛠️.
+If you have a focused pitch, the rest is easy! Ok maybe not, but the point here is to only build things you can demo to others. Most demos are capped at 1~2 minutes, so don't build features that no one will see. Don't get too caught up in processes and technical details, because you can build first and refine later 🛠️.
 
 ## Final thoughts
 
