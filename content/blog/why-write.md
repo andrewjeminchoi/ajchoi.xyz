@@ -2,7 +2,6 @@
 categories: ["writing"]
 date: 2023-09-10T11:08:58-04:00
 description: ""
-draft: false
 link: ""
 tags: ["meta"]
 title: "Why I write"
