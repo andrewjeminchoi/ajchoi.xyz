@@ -3,7 +3,7 @@ categories: ["hackathon"]
 date: 2023-09-10T22:36:06-04:00
 description: "How you can get the most out of your hackathon projects from a 4x MLH medalist"
 link: ""
-tags: ["building", "hackathon", "tips", "pitch", "hacks", "studnts", "CS"]
+tags: ["building", "hackathon", "tips", "pitch", "hacks", "students", "CS"]
 title: "Hack the Hackathon"
 ---
 
@@ -33,6 +33,8 @@ If you have a focused pitch, the rest is easy! Ok maybe not, but the point here 
 
 I actually don't care much about winning [^x] at hackathons, but there will be times when you feel like you got robbed at them. From personal experience, I can assure you that you can easily bounce back from it (we did it four times!), and it will help you come up with better hacks. It's also important to lose gracefully and hack with integrity, as the hackathon world is a small place with big ideas.
 But as they say, the real prize is always [the friends we made along the way](https://knowyourmeme.com/memes/maybe-the-real-treasure-was-the-friends-we-made-along-the-way) 😏.
+
+Discussions welcomed on [Github](https://github.com/andrewjeminchoi/ajchoi.xyz/issues/new/choose).
 
 #### Acknowledgements
 
