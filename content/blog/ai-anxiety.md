@@ -12,7 +12,7 @@ This was before ChatGPT was a thing, and events like the [ongoing Writers' strik
 
 On the other hand, I think AI will have an extremely hard time taking over the world in the short run. I’ll give three reasons why:
 
-1. **Economics of automation**: Software is notoriously becoming harder to design, maintain and develop. It might just be easier and cheaper to hire humans to do certain tasks. Despite technological advances in automobiles 🚗 and airplanes ✈️, there’s a reason why bipedal modes of transport haven't become obsolete yet. 🏃‍♂️💨💨
+1. **Economics of automation**: Software is notoriously becoming harder to design, maintain and develop [^a]. It might just be easier and cheaper to hire humans to do certain tasks. Despite technological advances in automobiles 🚗 and airplanes ✈️, there’s a reason why bipedal modes of transport haven't become obsolete yet. 🏃‍♂️💨💨
 
 2. **Political and Cultural significance**: In [Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs), Anthropologist David Graebel posits that governments and the rich create jobs as a means of asserting power and to stroke their own egos. Sometimes, jobs carry cultural and ancestral value. For some of us, it’s even a part of our (literal) identity, as under the feudal system, people often named themselves after their trade, such as [Barber](https://en.wikipedia.org/wiki/Samuel_Barber) 💇, [Fisher](https://en.wikipedia.org/wiki/Fisher_(surname)) 🎣, or [Cook](https://en.wikipedia.org/wiki/James_Cook) 🧑‍🍳 [^3]. So even with technological advancements, it looks like we’ll always have artificial demand for jobs, bullshit or not.
 
@@ -37,3 +37,5 @@ Thank you to [Josh](https://github.com/JoshFried) and [Nate](https://www.linkedi
 [^4]: From Juliet Schor's The Overspent American: <https://www.youtube.com/watch?v=YdaQnGgWoPg>
 
 [^5]: [John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes), along with his opponent [Friedrich  Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek), is considered to be one of the most influential figures in modern economics. In 1930, he wrote this [essay]( https://www.aspeninstitute.org/wp-content/uploads/files/content/upload/Intro_and_Section_I.pdf) on why we should be optimistic about the economies of the future, and why his grandchildren will enjoy a life of leisure.
+
+[^a]: Fred Brooks even noted this in [The Mythical Man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month), which was written in 1975 👀.
