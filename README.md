@@ -1,6 +1,6 @@
 # My Blog
 
-Come visit me at [ajchoi.xyz](ajchoi.xyz)!
+Come visit me at [ajchoi.xyz](https://ajchoi.xyz)!
 
 Built with [Hugo](https://gohugo.io/) and [Paige](https://github.com/willfaught/paige). Hosted on Cloudflare Pages.
 
