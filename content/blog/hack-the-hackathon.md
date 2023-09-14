@@ -10,7 +10,7 @@ title: "Hack the Hackathon"
 
 ## Motivation
 
-In January of 2021, [Jacob](https://avatars.githubusercontent.com/u/20128472?v=4)[^1] and I stumbled into our first hackathon (UofTHacks) with nothing but the clothes on our backs 🙈. There, we met [Christine](https://www.christinetrac.dev/) and [Rachel](https://www.linkedin.com/in/rac-help/), and went on to win awards at 4 major MLH [hackathons](https://en.wikipedia.org/wiki/Hackathon)[^2]. In light of our journey in the 2022 MLH circuit, I wanted to share three tips for successful hackathon project 🥳.
+In January of 2021, [Jacob](https://avatars.githubusercontent.com/u/20128472?v=4)[^1] and I stumbled into our first hackathon (UofTHacks) together with nothing but the clothes on our backs 🙈. There, we met [Christine](https://www.christinetrac.dev/) and [Rachel](https://www.linkedin.com/in/rac-help/), and went on to win awards at 4 major MLH [hackathons](https://en.wikipedia.org/wiki/Hackathon)[^2]. In light of our journey in the 2022 MLH circuit, I wanted to share three tips for successful hackathon project 🥳.
 
 ## Three tips
 
@@ -20,7 +20,7 @@ If you are going solo, then skip to point 2 ✌️. Most hackathons allow you to
 
 2. Stand your pitch 🎤
 
-I always recommend starting with the problem statement and what you're going to pitch. There's two parts to a good problem:
+I always recommend starting with the problem statement and what you're going to pitch. There's two parts to a convincing problem:
 
 First, it needs to be true 🔍. This is easy - it can be based on real-life experiences or you can do some research and find evidence to support your claims.
 
@@ -32,7 +32,7 @@ If you have a focused pitch, the rest is easy! Ok maybe not, but the point here 
 
 ## Parting thoughts
 
-I actually don't care much about winning [^4] at hackathons, but there will be times when you feel like you got robbed at them. I can assure you that you can easily bounce back from it (we did it four times!), and it will help you come up with better hacks. It's also important to lose gracefully and hack with integrity, as the hackathon world is a small place with big ideas.
+I actually don't care much about winning [^4], but there will be times when you feel like you got robbed at hackathons. I can assure you that you can easily bounce back from it (we did it four times!), and it will help you come up with better hacks. It's also important to lose gracefully and hack with integrity, as the hackathon world is a small place with big ideas.
 But as they say, the real prize is always [the friends we made along the way](https://knowyourmeme.com/memes/maybe-the-real-treasure-was-the-friends-we-made-along-the-way) 😏.
 
 Discussions welcomed on [Github](https://github.com/andrewjeminchoi/ajchoi.xyz/issues/new/choose).
@@ -49,5 +49,5 @@ Thank you to my teammates [Jacob](https://avatars.githubusercontent.com/u/201284
 
 [^3]: As a bonus tip for engineers (like me!), I also encourage you to have at least one person responsible for the design and product vision. Visuals and UX matter a lot in short pitches, and you might be surprised how much value a product-driven teammate can have on the final hack.
 
-[^4]: To quote the great writer [Haruki Murakami](https://www.newyorker.com/books/page-turner/the-harukists-disappointed), "No, I don't want prizes. That means you're finished."
+[^4]: At hackathons and in general. To quote the great writer [Haruki Murakami](https://www.newyorker.com/books/page-turner/the-harukists-disappointed), "No, I don't want prizes. That means you're finished."
 
