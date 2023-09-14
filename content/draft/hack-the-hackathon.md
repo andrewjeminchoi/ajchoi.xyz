@@ -1,7 +1,7 @@
 ---
 categories: ["hackathon"]
 date: 2023-09-10T22:36:06-04:00
-description: "An article on how you can get the most out of your hackathon projects"
+description: "How you can get the most out of your hackathon projects from a 4x MLH medalist"
 link: ""
 tags: ["building", "hackathon", "tips", "pitch", "hacks", "studnts", "CS"]
 title: "Hack the Hackathon"
@@ -15,7 +15,7 @@ In January of 2021, [Jacob](https://www.linkedin.com/in/jacobnishimura/) and I s
 
 1. Find your squad 😎
 
-If you are going solo, then skip to point 2️⃣. Most hackathons allow you to choose teammates before the hackathon starts. It's okay if you don't know anyone, but make sure you find a team within the first few hours. Complementary skills matter more than mutual interests. Your job in the next day or so will be to build, so make sure you find people who can execute on that in ways you cannot.[^2]
+If you are going solo, then skip to point 2 ✌️. Most hackathons allow you to choose teammates before the hackathon starts. It's okay if you don't know anyone, but make sure you find a team within the first few hours. Complementary skills matter more than mutual interests. Your job in the next day or so will be to build, so make sure you find people who can execute on that in ways you cannot.[^2]
 
 2. Stand your pitch 🎤
 

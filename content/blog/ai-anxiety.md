@@ -1,10 +1,10 @@
 ---
 categories: ["economics", "ai"]
 date: 2023-09-11T00:18:16-04:00
-description: ""
+description: "Why we shouldn’t fear the computer"
 link: ""
 tags: ["ai", "economics", "work", "presentations"]
-title: "On AI Anxiety: Why we shouldn’t fear the computer"
+title: "Fighting AI and Automation Anxiety"
 ---
 
 I gave a talk on “automation anxiety” in 2020 [^1] to explore reasons why people are (rightfully) scared that computers will take their jobs.
