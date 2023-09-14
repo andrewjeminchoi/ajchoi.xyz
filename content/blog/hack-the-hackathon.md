@@ -1,11 +1,12 @@
 ---
-categories: ["hackathon"]
-date: 2023-09-14T22:36:06-04:00
-description: "How you can get the most out of your hackathon projects from a 4x MLH medalist"
+categories: []
+date: 2023-09-14T03:10:19-04:00
+description: "Get the most out of your Hackathons, from a 4x MLH medalist"
 link: ""
-tags: ["building", "hackathon", "tips", "pitch", "hacks", "students", "CS"]
+tags: []
 title: "Hack the Hackathon"
 ---
+
 
 ## Motivation
 
@@ -49,3 +50,4 @@ Thank you to my teammates [Jacob](https://avatars.githubusercontent.com/u/201284
 [^3]: As a bonus tip for engineers (like me!), I also encourage you to have at least one person responsible for the design and product vision. Visuals and UX matter a lot in short pitches, and you might be surprised how much value a product-driven teammate can have on the final hack.
 
 [^4]: To quote the great writer [Haruki Murakami](https://www.newyorker.com/books/page-turner/the-harukists-disappointed), "No, I don't want prizes. That means you're finished."
+
