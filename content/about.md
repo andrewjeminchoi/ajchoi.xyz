@@ -14,11 +14,11 @@ paige.analytics.counter: # See https://counter.dev
   utc_offset: ""
 ---
 
-I most recently worked on open-sourced blockchain software 🧑‍💻 at Algorand [^1], where I focused on programmability, smart-contract languages, and developer infrastructure to power blockchain/Web3 apps. Before that, I did research on Ethereum/EVM-based systems [^2]. And even before "Web3", I built "Web2" microservices at Google 🔎 and AWS 📦.
+I most recently worked on open-sourced blockchain software 🧑‍💻 at Algorand [^1], where I focused on programmability, smart-contract languages, data indexing/streaming, and developer infrastructure to power blockchain/Web3 apps. Before that, I did research on Ethereum/EVM-based systems [^2]. And even before "Web3", I built "Web2" microservices at Google 🔎 and AWS 📦.
 
-I'm also interested in Computer Science education 🧑‍🏫. I teach as an Adjunct at Boston University and Wentworth Tech on various CS topics. I also helped teach 8 ECE courses at the University Toronto 🍁, where I received my BASc and MSc.
+I'm also interested in Computer Science education 🧑‍🏫. I teach as an Adjunct at Boston University and Wentworth Tech on various CS topics. I also helped teach courses at the University Toronto 🍁, where I received my BASc and MSc.
 
-My hobbies are making loud noises on my trombone 🎶 and chasing around soccer balls ⚽🏃. I like using emojis because I'm a fast reader, and they help me catch context, nuances, and non-written cues better 🤓. They're also fast to load and embeds into text nicely!
+My hobbies are making loud noises on my trombone 🎶 and chasing around soccer balls ⚽🏃.
 
 Longer bio [here](https://andrewjeminchoi.github.io).
 
