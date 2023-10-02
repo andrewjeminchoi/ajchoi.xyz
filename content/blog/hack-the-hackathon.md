@@ -1,5 +1,5 @@
 ---
-categories: []
+categories: ["hackathon", "school", "students"]
 date: 2023-09-14T03:10:19-04:00
 description: "Get the most out of your Hackathons, from a 4x MLH medalist"
 link: ""
