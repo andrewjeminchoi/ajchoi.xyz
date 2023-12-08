@@ -33,3 +33,7 @@ weight = 40
 
 [outputs]
 home = ["html", "json", "rss"]
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-DSMD2C7DF0'
