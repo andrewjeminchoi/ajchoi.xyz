@@ -7,7 +7,7 @@ tags: ["systems", "blockchain"]
 title: "A case for distributed systems"
 ---
 
-People often ask me what a "blockchain" is and what it's used for. And I find it very hard to explain the "why" without explaining "why" something like a simple internet search requires massive computing architectures behind the scenes.
+People often ask me what a "blockchain" is and what it's used for. And I find it very hard to explain "why" we need malicious fault tolerant decentralized systems (aka blockchain) without explaining "why" something like a simple internet search requires massive computing architectures behind the scenes.
 
 ## Why businesses distribute labor 🏭
 
